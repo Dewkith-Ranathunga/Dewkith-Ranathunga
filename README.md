@@ -2,6 +2,11 @@
 <h3 align="center">Computer Science Undergraduate | Aspiring Data Analyst | Full Stack Developer Enthusiast</h3>
 
 <p align="center">
+  <!-- Typing animation (GIF-based) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Full+Stack+Developer+Enthusiast;Passionate+about+Learning+New+Tech" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dewkith-ranathunga&label=Profile%20views&color=0e75b6&style=flat" alt="dewkith-ranathunga" />
 </p>
 
