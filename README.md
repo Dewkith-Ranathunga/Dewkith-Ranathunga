@@ -18,10 +18,10 @@
 
 ---
 
-- 🌱 I’m currently learning **Java, JavaScript, Node.js, React, PHP, MySQL, and Python**  
+- 🌱 I'm currently learning **Java, JavaScript, Node.js, React, PHP, MySQL, and Python**  
 - 💬 Ask me about **Java**  
 - 📫 How to reach me: **dewkithranathunga@gmail.com**  
-- ⚡ Fun fact: **I’m always up for challenges and love exploring emerging tech trends to expand my skill set!**
+- ⚡ Fun fact: **I'm always up for challenges and love exploring emerging tech trends!**
 
 ---
 
@@ -37,10 +37,10 @@
 
 ---
 
-<!-- 🐍 GitHub Snake Animation (RGB Neon Style) -->
+<!-- 🐍 WORKING GitHub Snake Animation -->
 <h3 align="left">GitHub Contribution Snake:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dewkith-ranathunga/dewkith-ranathunga/output/github-contribution-grid-snake-rgb.svg" alt="GitHub Snake RGB Animation" />
+  <img src="https://raw.githubusercontent.com/dewkith-ranathunga/dewkith-ranathunga/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </p>
 
 ---
