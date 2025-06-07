@@ -37,6 +37,14 @@
 
 ---
 
+<!-- 🐍 GitHub Snake Animation (RGB Neon Style) -->
+<h3 align="left">GitHub Contribution Snake:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dewkith-ranathunga/dewkith-ranathunga/output/github-contribution-grid-snake-rgb.svg" alt="GitHub Snake RGB Animation" />
+</p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
