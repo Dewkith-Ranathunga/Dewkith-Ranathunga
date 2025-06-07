@@ -1,3 +1,5 @@
+![snake animation](https://github.com/dewkith-ranathunga/dewkith-ranathunga/blob/output/github-contribution-grid-snake2.svg)
+
 <h1 align="center">Hi 👋, I'm Dewkith Ranathunga</h1>
 <h3 align="center">Computer Science Undergraduate | Aspiring Data Analyst | Full Stack Developer Enthusiast</h3>
 
