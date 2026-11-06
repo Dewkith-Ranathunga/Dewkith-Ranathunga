@@ -27,51 +27,32 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=laravel,react,tailwind,figma" alt="Frontend" />
 
-<p>
-  <img src="https://img.shields.io/badge/Blade_PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade PHP"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
+<sub>Blade PHP · React · React Native · Tailwind CSS · Figma</sub>
 
 ### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,express,dotnet" alt="Backend" />
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-</p>
+<sub>Laravel · FastAPI · Node.js · Express.js · ASP.NET</sub>
 
 ### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php" alt="Languages" />
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
+<sub>JavaScript · TypeScript · Python · Java · C++ · PHP</sub>
 
 ### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+<sub>MongoDB · MySQL</sub>
 
-### 🧰 Tools & DevOps
+### 🧰 Tools & Cloud
+<img src="https://skillicons.dev/icons?i=git,docker,aws,redhat,ubuntu" alt="Tools" />
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Desktop"/>
-  <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox"/>
-  <img src="https://img.shields.io/badge/MobaXterm-2B2B2B?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="MobaXterm"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+<sub>Git · Docker Desktop · AWS · Red Hat Linux · Ubuntu</sub>
+
+<img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox"/>
+<img src="https://img.shields.io/badge/MobaXterm-2B2B2B?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="MobaXterm"/>
 
 ---
 
@@ -79,19 +60,19 @@
 
 <div align="center">
 
-<!-- Streak & contributions (auto-synced) -->
 <img src="https://streak-stats.demolab.com?user=dewkith-ranathunga&theme=tokyonight&hide_border=true&mode=weekly&border_radius=12" alt="GitHub Streak" />
 
-<!-- Stats + Top languages side by side -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dewkith-ranathunga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewkith-ranathunga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top Languages" />
+<img height="200" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 
-<!-- Contribution activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dewkith-ranathunga&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
-> 🔄 All analytics above update **automatically** from my GitHub account.
+> 🔄 Cards are generated daily by GitHub Actions from my own account data.
 
 ---
 
