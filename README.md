@@ -47,12 +47,9 @@
 <sub>MongoDB · MySQL</sub>
 
 ### 🧰 Tools & Cloud
-<img src="https://skillicons.dev/icons?i=git,docker,aws,redhat,ubuntu" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,docker,aws,redhat,ubuntu" height="48" alt="Tools" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/virtualbox.svg" height="48" width="48" alt="Oracle VirtualBox" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mobaxterm.png" height="48" width="48" alt="MobaXterm" />
 
-<sub>Git · Docker Desktop · AWS · Red Hat Linux · Ubuntu</sub>
-
-<img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox"/>
-<img src="https://img.shields.io/badge/MobaXterm-2B2B2B?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="MobaXterm"/>
+<sub>Git · Docker Desktop · AWS · Red Hat Linux · Ubuntu · Oracle VirtualBox · MobaXterm</sub>
 
 ---
 
